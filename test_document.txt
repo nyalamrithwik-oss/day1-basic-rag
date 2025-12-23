@@ -1,0 +1,25 @@
+This is a test document about RAG systems.
+
+RAG stands for Retrieval-Augmented Generation.
+
+It helps AI systems answer questions by retrieving relevant 
+information from a knowledge base.
+
+The main components are:
+1. Document loading - Reading PDFs, text files, etc.
+2. Text chunking - Breaking documents into smaller pieces
+3. Vector embeddings - Converting text to numerical vectors
+4. Semantic search - Finding relevant chunks based on meaning
+5. LLM generation - Using AI to generate natural responses
+
+RAG systems are used for:
+- Customer support chatbots
+- Internal knowledge bases
+- Document question-answering
+- Research assistants
+
+Key benefits:
+- More accurate than pure LLMs
+- Can cite sources
+- Updates easily with new documents
+- Cost-effective compared to fine-tuning
